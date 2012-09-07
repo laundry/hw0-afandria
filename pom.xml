@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f12.hw0</groupId>
 	<artifactId>hw0-afandria</artifactId>
-	<version>0.0.3</version>
+	<version>0.0.1</version>
 	<scm>
 		<!-- <connection>scm:git:git@github.com:laundry/hw0-afandria.git</connection>
 		<developerConnection>scm:git:git@github.com:laundry/hw0-afandria.git</developerConnection>-->
@@ -47,7 +47,7 @@ course-releases</url>
 							<goal>perform</goal>
 						</goals>
 						<configuration>
-							<pomFileName>hw0-ANDREW_ID/pom.xml</pomFileName>
+							<pomFileName>hw0-afandria/pom.xml</pomFileName>
 						</configuration>
 					</execution>
 				</executions>
