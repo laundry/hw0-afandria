@@ -2,12 +2,12 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f12.hw0</groupId>
 	<artifactId>hw0-afandria</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<scm>
-		<!--<connection>scm:git:git@github.com:laundry/hw0-afandria.git</connection>
-		<developerConnection>scm:git:git@github.com:laundry/hw0-afandria.git</developerConnection>-->
-		<connection>scm:git:https://laundry@github.com/hw0-afandria.git</connection>
-		<developerConnection>scm:git:https://laundry@github.com/hw0-afandria.git</developerConnection>
+		<connection>scm:git:git@github.com:laundry/hw0-afandria.git</connection>
+		<developerConnection>scm:git:git@github.com:laundry/hw0-afandria.git</developerConnection>
+		<!--<connection>scm:git:https://laundry@github.com/hw0-afandria.git</connection>
+		<developerConnection>scm:git:https://laundry@github.com/hw0-afandria.git</developerConnection>-->
 	</scm>
 	<repositories>
 		<repository>
