@@ -6,6 +6,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:laundry/hw0-afandria.git</connection>
 		<developerConnection>scm:git:git@github.com:laundry/hw0-afandria.git</developerConnection>
+		<url>scm:git:git@github.com:laundry/hw0-afandria.git</url>
 	</scm>
 	<repositories>
 		<repository>
