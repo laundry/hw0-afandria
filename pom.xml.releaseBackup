@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>edu.cmu.lti.11791.f12.hw0</groupId>
 	<artifactId>hw0-afandria</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:git@github.com:laundry/hw0-afandria.git</connection>
 		<developerConnection>scm:git:git@github.com:laundry/hw0-afandria.git</developerConnection>
@@ -17,8 +17,7 @@
 	<distributionManagement>
 		<repository>
 			<id>deployment</id>
-			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/
-course-releases</url>
+			<url>http://mu.lti.cs.cmu.edu:8081/nexus/content/repositories/course-releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
